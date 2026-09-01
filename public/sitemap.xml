@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://samuelfagundez.github.io/soho-cafe-brunch/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/soho-cafe-brunch/gallery/soho-cafe-brunch-interior-rosa.jpg</image:loc>
+      <image:title>Interior en tonos rosa de SOHO CAFÉ - BRUNCH</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/soho-cafe-brunch/gallery/soho-cafe-brunch-terraza-fachada.jpg</image:loc>
+      <image:title>Fachada y terraza de SOHO CAFÉ - BRUNCH en Trafalgar, València</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/soho-cafe-brunch/gallery/soho-cafe-brunch-bowls-fruta.jpg</image:loc>
+      <image:title>Bowls de fruta fresca de SOHO CAFÉ - BRUNCH</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/soho-cafe-brunch/gallery/soho-cafe-brunch-matcha-rosas.jpg</image:loc>
+      <image:title>Matcha con crema rosa de SOHO CAFÉ - BRUNCH</image:title>
+    </image:image>
+  </url>
+</urlset>
