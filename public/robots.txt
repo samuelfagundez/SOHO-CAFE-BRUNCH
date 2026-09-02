@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://samuelfagundez.github.io/soho-cafe-brunch/sitemap.xml
+Sitemap: https://samuelfagundez.github.io/SOHO-CAFE-BRUNCH/sitemap.xml

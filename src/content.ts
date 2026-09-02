@@ -70,8 +70,11 @@ export const content = {
   // Pendiente: el cliente no dio un correo de contacto público.
   email: "",
 
-  // URL final del sitio en GitHub Pages (repo público "soho-cafe-brunch").
-  siteUrl: "https://samuelfagundez.github.io/soho-cafe-brunch/",
+  // URL final del sitio en GitHub Pages. OJO: el nombre real del repo es
+  // "SOHO-CAFE-BRUNCH" (mayúsculas) — GitHub Pages es sensible a
+  // mayúsculas/minúsculas en el segmento del repo dentro de la URL, así
+  // que debe coincidir exactamente o el sitio da 404.
+  siteUrl: "https://samuelfagundez.github.io/SOHO-CAFE-BRUNCH/",
 
   // La carta pública del negocio (Carrd), en español e inglés.
   menuUrl: "https://sohobrunch.carrd.co/",
